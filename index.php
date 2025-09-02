@@ -428,7 +428,7 @@ body {
                   <a href="add-students.php" class="btn btn-primary">
                     <i class="fas fa-user-plus me-2"></i> Add New Student
                   </a>
-                  <a href="take-attendance.php" class="btn btn-outline-primary">
+                  <a href="take-attendence.php" class="btn btn-outline-primary">
                     <i class="fas fa-clipboard-check me-2"></i> Take Attendance
                   </a>
                   <a href="add-grades.php" class="btn btn-outline-primary">
